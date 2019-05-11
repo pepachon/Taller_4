@@ -29,4 +29,16 @@ Se presenta las reglas implementadas para monitorear los eventos de riesgo desde
 
 ![Dashboard](./img/Dashboard.png)
 
+![Dashboard_2](./img/Dashboard_Splunk.PNG)
 
+A continuación se presenta el detalle de datos de las alertas:
+
+![Delete](./img/Delete_tabla.PNG)
+
+![Delete](./img/Salario_tabla.PNG)
+
+Adicionalmente, se presenta la configuración de alertas realizada para el borrado en la base de datos y la modificación de salarios:
+
+![Alerta](./img/Alerts.png)
+
+![Reporte_Alerta](./img/Alertar_reporte.PNG)
